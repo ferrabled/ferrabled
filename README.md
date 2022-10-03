@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Fernando Rabasco 👋
 
-<!--
-**ferrabled/ferrabled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently studying Cybersecurity
+- 🔭 I’m currently working on XTICKER
+- 💬 Ask me about any concern!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ferrabled/)
+
+
+|🌟|💻|
+| --- | --- |
+|[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrabled)](https://github.com/ferrabled)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrabled&layout=compact&hide=css)](https://github.com/ferrabled)|
