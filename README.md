@@ -1,9 +1,9 @@
 ### Hi there, I'm Fernando Rabasco 👋
 
 
-
-- 🌱 I’m currently studying Cybersecurity
-- 🔭 I’m currently working on XTICKER
+- 👨‍🚀  I'm a Software Engineer
+- 🌱 I’m currently studying a Cybersecurity Master
+- 🔭 I’m currently working on many projects
 - 💬 Ask me about any concern!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ferrabled/)
 
