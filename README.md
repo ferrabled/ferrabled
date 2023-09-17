@@ -10,4 +10,4 @@
 
 |🌟|💻|
 | --- | --- |
-|[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrabled)](https://github.com/ferrabled)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrabled&layout=compact&hide=css)](https://github.com/ferrabled)|
+|[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrabled)](https://github.com/ferrabled)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrabled&layout=compact&hide=css,html,tex)](https://github.com/ferrabled)|
