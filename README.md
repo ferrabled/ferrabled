@@ -1,9 +1,8 @@
 ### Hi there, I'm Fernando Rabasco 👋
 
 
-- 👨‍🚀  I'm a Software Engineer
-- 🌱 I’m currently studying a Cybersecurity Master
-- 🔭 I’m currently working on many projects
+- 👨‍🚀  I'm a Cybersecurity & Software Engineer
+- 🌱 I’m currently learning about Web3, Solidity security 
 - 💬 Ask me about any concern!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ferrabled/)
 
