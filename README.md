@@ -2,9 +2,10 @@
 
 
 - 👨‍🚀  I'm a Cybersecurity & Software Engineer
-- 🌱 I’m currently learning about Web3, Solidity security 
+- 🌱 I’m currently learning about Solidity Security & Rust 
 - 💬 Ask me about any concern!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ferrabled/)
+- 🕵🏼‍♂️ Learn more about myself: [Website](https://ferrabled.github.io/)
 
 
 |🌟|💻|
