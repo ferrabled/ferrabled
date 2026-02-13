@@ -7,7 +7,7 @@
 - 🕵🏼‍♂️ Learn more about myself: [Website](https://ferrabled.github.io/)
 
 
-## Honors & Awards
+## Hackathon & Projects
 
 **ETH Global Hackathon - ETH Online**
 - 🏗️  [RealYou](https://ethglobal.com/showcase/realyou-gqogf)
